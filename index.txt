@@ -12,3 +12,4 @@ Git commit \'97amend
 git merge
 Conflict
 Pull request
+Git hub flow
